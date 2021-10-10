@@ -5,3 +5,5 @@ build/
 .DS_Store
 .Rhistory
 local.properties
+cwe.jks
+canadaWeather/release/
