@@ -8,10 +8,8 @@
     <string name="menu_24hr">24-Hour Forecast</string>
     <string name="menu_radar">Radar</string>
     <string name="menu_about">About</string>
-    
-    <string name="main_about_message">This update is a fix to the new radar locations and the new web address of Environment Canada\'s servers. Thanks for all your kind emails and bug reports and feature requests. As always, keep it coming to apps@fishandwhistle.net.</string>
-    <string name="main_about_rate">Rate this app!</string>
-    <string name="main_about_site">Website</string>
+
+    <string name="main_about_site" translatable="false">GitHub</string>
     <string name="main_about_gotit">Got it!</string>
     <string name="main_about_title">About</string>
     <string name="main_error_noradar">Radar not properly installed!</string>
@@ -55,5 +53,6 @@
     <string name="radar_error_details">The radar is likely offline. Please visit Environment Canada\'s website to see if the radar is in maintenance.</string>
     <string name="radar_error_visit">Check status</string>
     <string name="radar_error_url">https://www.canada.ca/en/environment-climate-change/services/weather-general-tools-resources/radar-overview/outages-maintenance.html</string>
+    <string name="main_about_message">Welcome to Canada Weather! Originally maintained by Dewey Dunnington, this app is now maintained by Austin Huang. If you have any questions, please go to https://austinhuang.me for methods to reach me.</string>
 
 </resources>
