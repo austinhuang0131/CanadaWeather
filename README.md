@@ -6,7 +6,8 @@ For all inquiries, create an issue or email im@austinhuang.me.
 
 ## Downloads
 
-F-Droid pending.
+<a href="https://f-droid.org/en/packages/me.austinhuang.caweather/"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75"></a>
+<a href="https://github.com/austinhuang0131/CanadaWeather/releases/latest"><img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" height="75"></a>
 
 ## License
 
