@@ -1,3 +1,11 @@
+As of now I am not maintaing this. Maybe I will revisit this sometime, but not now.
+
+**Users:** For forecasts, you may want to consider using [Breezy Weather](https://github.com/breezy-weather/breezy-weather); Environment Canada itself is available on its “Standard” flavour, but Open-Meteo on both standard and free flavours integrate ECCC data anyway. For radar, maybe try [WiseRadar](https://f-droid.org/en/packages/wiseguys.radar/), but it's not maintained either.
+
+**Developers:** this app was written in quite ancient times and lacks support for newer Android features (like modern TLS), so it'll require a comprehensive rewrite to bring to modern standards, which is a bit pointless considering modern alternatives for viewing ECCC data (like Breezy Weather) already exists. I could reopen the repository though if you just want to update all the data and stuff, but I no longer do Android development, so I no longer have the means to test them myself.
+
+---
+
 # Canada Weather & Radar
 
 Forked from original in pursuant to [this](https://github.com/paleolimbot/CanadaWeather/pull/28).
